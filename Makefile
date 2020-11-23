@@ -1,4 +1,4 @@
 SHELL := /bin/bash
 
 run:
-	go run ./cmd/messages-service/main.go
+	go run ./cmd/messages/main.go

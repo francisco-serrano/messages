@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/francisco-serrano/sample-gokit/messages"
+	"github.com/francisco-serrano/messages"
 	"github.com/gorilla/mux"
 	"net/http"
 	"os"
